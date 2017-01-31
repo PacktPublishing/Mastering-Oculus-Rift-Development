@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a380d8956a81f954d9c5f3dc1b5f83ad
+timeCreated: 1468290137
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - energyOrbPrefab: {fileID: 108272, guid: 0d90a5e9e6662ad4fa271c7803823c69, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arena-combat.CSharp.Plugins", "arena-combat.CSharp.Plugins.csproj", "{60F12548-2EED-0DDC-C5BB-27859989CE05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arena-combat.CSharp", "arena-combat.CSharp.csproj", "{241DB627-F40B-6174-87BA-ED4DF127B46D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arena-combat.CSharp.Editor", "arena-combat.CSharp.Editor.csproj", "{7843A198-C521-AA92-28C9-06EB84882A72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60F12548-2EED-0DDC-C5BB-27859989CE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F12548-2EED-0DDC-C5BB-27859989CE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F12548-2EED-0DDC-C5BB-27859989CE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F12548-2EED-0DDC-C5BB-27859989CE05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241DB627-F40B-6174-87BA-ED4DF127B46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241DB627-F40B-6174-87BA-ED4DF127B46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241DB627-F40B-6174-87BA-ED4DF127B46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241DB627-F40B-6174-87BA-ED4DF127B46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7843A198-C521-AA92-28C9-06EB84882A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7843A198-C521-AA92-28C9-06EB84882A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7843A198-C521-AA92-28C9-06EB84882A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7843A198-C521-AA92-28C9-06EB84882A72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
