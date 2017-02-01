@@ -3,7 +3,7 @@
 #Mastering Oculus Rift Development
 This is the code repository for [Mastering Oculus Rift Development](https://www.packtpub.com/game-development/mastering-oculus-rift-development?utm_source=github&utm_medium=repository&utm_campaign=9781786461155), published by [Packt](www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
-Jack Donovan is a game developer and software engineer who has been working with the Unity3D engine since its third major release. He studied at Champlain College in Burlington, Vermont, where he received a BS in Game Programming.
+Virtual reality (VR) is changing the world of gaming and entertainment as we know it. VR headsets such as the Oculus Rift immerse players in a virtual world by tracking their head movements and simulating depth, giving them the feeling that they are actually present in the environment. We will first use the Oculus SDK in the book and will then move on to the widely popular Unity Engine, showing you how you can add that extra edge to your VR games using the power of Unity.
 ##Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
